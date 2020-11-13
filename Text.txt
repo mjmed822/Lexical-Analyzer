@@ -1,0 +1,20 @@
+//Clean Program
+begin
+  print "Good morning NJIT";
+  
+  //compute circle area and circumfeence
+  r = 5;
+  pi = 3.14;
+  
+  area = pi * r * r;
+  circum = 2 * pi * r;
+  
+  //Compute sphere volume and surface
+  vol = 4/3.0 * pi * r * r * r;
+  surface = 4 * pi * r * r;
+  
+  if (x) then print "Area: ", area;
+  if (area) then print "Ratio of surface to Volume ", surface /vol;
+  
+end
+  
